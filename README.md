@@ -11,7 +11,7 @@
   ## Objetivo da Aplicação : 
   ##### API de filmes; 
    ##### O usuário pode avalizar o filme com : 
-   ##### - Nota
+   ##### - Nota (de 0 a 10)
    ##### - Comentário
    #### Cada interação do usuário acumula pontos em seu perfil e isso altera sua atribuição no forum; 
    ##### LEITOR de 0 a 19 pontos; 
