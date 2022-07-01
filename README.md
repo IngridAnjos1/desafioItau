@@ -8,7 +8,7 @@
 - [POSTMAN]
 - [INTELIJ IDEA]
   
-  ## Objetivo da Aplicação 
+  ## Objetivo da Aplicação : 
   - API de filmes; 
   - O usuário pode avalizar o filme com : 
   -nota
