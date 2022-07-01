@@ -11,13 +11,13 @@
   ## Objetivo da Aplicação : 
   ##### API de filmes; 
    ##### O usuário pode avalizar o filme com : 
-  ##### - nota
+   ##### - Nota
    ##### - Comentário
    #### Cada interação do usuário acumula pontos em seu perfil e isso altera sua atribuição no forum; 
-  LEITOR de 0 a 19 pontos; 
-  BÁSICO: 20 a 99; 
-  AVANCADO: 100 a 999;
-  MODERADOR 1000;   
+   ##### LEITOR de 0 a 19 pontos; 
+   ##### BÁSICO: 20 a 99; 
+   ##### AVANCADO: 100 a 999;
+   ##### MODERADOR 1000;   
   
   
   ## Como executar o projeto
