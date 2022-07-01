@@ -9,6 +9,10 @@
 - [INTELIJ IDEA]
   
   ## Como executar o projeto
+  -
+  - Utilize a coleção de testes adicionadas ao projeto (Postman);
+  - Utilize a idea de sua preferencia; 
+  - 
  
 
 [JAVA]: https://www.java.com/pt-BR/
